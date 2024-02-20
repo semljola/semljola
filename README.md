@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @semljola (Johan Lauri)
 - 👀 I’m interested in most things, being a generalist 
-- 🌱 I’m currently learning Apple Health Kit
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 
 <!---
